@@ -100,6 +100,83 @@ Performed:
 
 ---
 
+---
+
+# 📊 Results & Visualizations
+
+### 📈 Multi-Stock Price Comparison
+
+Comparison of historical stock price movements across all selected sectors from 2021–2026.
+
+<img width="1320" height="706" alt="Multi-stock price comparison" src="https://github.com/user-attachments/assets/4aacadb8-0deb-4e81-9fc5-d93594bd2dbe" />
+
+---
+
+### 🥧 Portfolio Allocation
+
+Final capital allocation based on forecasting results, volatility analysis, and diversification strategy.
+
+<img width="837" height="814" alt="Portfolio Allocation Pie Chart" src="https://github.com/user-attachments/assets/4734c71c-a597-47e4-9eeb-14c2b0b71309" />
+
+---
+
+### 🔥 Correlation Heatmap
+
+Correlation analysis used to identify diversification opportunities and reduce portfolio concentration risk.
+
+<img width="855" height="781" alt="Correlation heatmap" src="https://github.com/user-attachments/assets/0454476d-2a0c-4297-9ff7-5b3397d3ee73" />
+
+---
+
+### ⚖️ Risk vs Return Analysis
+
+Risk-return tradeoff analysis showing annualized returns against volatility for selected stocks.
+
+<img width="871" height="626" alt="Risk vs Return plot" src="https://github.com/user-attachments/assets/540791cf-9ff3-4b8d-ba3c-6e8d1ba251d4" />
+
+---
+
+### 📊 20-Day Rolling Volatility
+
+Rolling volatility analysis used to assess changing market risk over time.
+
+<img width="1169" height="549" alt="20 day rolling volatility" src="https://github.com/user-attachments/assets/ab782690-7228-4105-ba1c-2f88db45af7b" />
+
+---
+
+### 🧩 Seasonal Decomposition
+
+Time series decomposition into trend, seasonal, and residual components.
+
+<img width="1322" height="953" alt="seasonal decomposition" src="https://github.com/user-attachments/assets/2bf02421-9844-4aa8-ab1b-4cc91c214db6" />
+
+---
+
+### 📉 ARIMA Forecast
+
+Future stock price forecasting using the ARIMA model.
+
+<img width="1165" height="549" alt="ARIMA forecast" src="https://github.com/user-attachments/assets/ff2d3708-f241-48ea-8389-63f68badfe1d" />
+
+---
+
+### 📈 Holt-Winters Forecast
+
+Forecasting using exponential smoothing techniques.
+
+<img width="1165" height="549" alt="Holts-winter forecast" src="https://github.com/user-attachments/assets/35625274-1ee3-4020-b98e-081235341acb" />
+
+---
+
+### 🔮 Prophet Forecast
+
+Forecasting future trends and uncertainty intervals using Meta Prophet.
+
+<img width="988" height="614" alt="Prophet forecast" src="https://github.com/user-attachments/assets/b603569c-129d-4b12-9887-693ad34475eb" />
+
+---
+
+
 ## 💰 Portfolio Construction
 
 ### 🎯 Forecast-Guided Allocation
