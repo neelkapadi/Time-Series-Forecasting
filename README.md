@@ -1,8 +1,5 @@
 # 📈 Time Series Forecasting & Portfolio Optimization Using Statistical Models
 
-\
-
-\
 
 ## 🚀 Overview
 
